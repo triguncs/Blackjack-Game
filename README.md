@@ -1,3 +1,3 @@
 Play the game here :
 
-https://skyluf.github.io/Blackjack-Game/
+https://triguncs.github.io/Blackjack-Game/
